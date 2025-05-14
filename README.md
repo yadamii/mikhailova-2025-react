@@ -51,4 +51,5 @@ npm start
 
 ### Главная страница приложения   
 
-![Главная страница приложения](//exampleformdfile.png "Главная страница приложения")
+![image](https://github.com/user-attachments/assets/ff906656-7cac-4522-af58-bb096b4ed24b)
+
